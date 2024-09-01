@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Video Games</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>Video Games can improve your hand-eye coordination.</li>
+            <li>Playing games with your friends can improve your quality of life.</li>
+            <li>Your brain will become so devoted to gaming that you will frequently forget to eat.</li>
          </ol>
       </div>
    );
